@@ -1,0 +1,18 @@
+.wrap {
+    padding: 10%;
+}
+
+footer {
+    text-align: center;
+    font-family: Arial;
+    font-size: 10px;
+}
+
+.promo {
+    color: blueviolet;
+}
+
+img {
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
